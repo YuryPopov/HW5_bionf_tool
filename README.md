@@ -68,6 +68,7 @@ python3
 >>> print(bioinforma([['AGATTT', 'CCCUUU'], 'na', 'transcribe']))
 ### [2023-10-07 23:39:21,678: WARNING] Ooooops. This sequence CCCUUU is incorrect!
 ### ['AGAUUU']
+```
 
 ## BioInforma using examples 
 __(you schould be in folder with main.py script)__
